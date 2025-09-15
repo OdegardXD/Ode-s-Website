@@ -1,2 +1,3 @@
-# Ode-s-Website
-My Website.
+# Ode's Website   
+
+This is my website that i work on everynow and then   
